@@ -1,3 +1,7 @@
+#Update 24 08 08 
+Studied some databse 1nf, 2nd, 3nf basics and realize I need to split the commodity tables apart to normalize. Downloaded PostGreSQL
+
+
 # Update 24 08 06 
 Uploading old folder structure. It's messy. Looking forward to creating the correct repository folder structure and database links. Ideally, a web server to dish out the info.
 
